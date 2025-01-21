@@ -1,0 +1,35 @@
+.wrapper-table{
+ margin: 50px;
+ width: 90%;
+ border: 1px solid grey;
+}
+th,tr,td{
+    border: 1px solid grey;
+}
+.input-wrapper{
+    margin: 50px;
+
+}
+
+.input{
+    margin-top: 20px;
+    margin: 50px;
+}
+
+.add{
+    padding: 15px;
+    background-color: black;
+    color: aliceblue;
+    border: 1px solid aliceblue;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+
+
+.name {
+    background-color: rgb(234, 230, 230);
+  }
+
+  .age{
+    background-color: rgb(234, 230, 230);
+  }
